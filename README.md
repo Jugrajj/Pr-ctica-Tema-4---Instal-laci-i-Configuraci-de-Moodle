@@ -6,8 +6,8 @@ Per fer aquest apartat de la pràctica, he iniciat la sessió com a administrado
 
 Per començar he fet click en el **Logo** del meu perfil del *Moodle*, i després en l’opció de **"Perfil/Profile"**  ![Text alternatiu](imagen1.png "Títol opcional")
 - Una vegada dins de l’apartat de perfil, hem de fer clic a **"Edit Profile"**
-  ![Text alternatiu](imagen2.png "Títol opcional")
+  ![Text alternatiu](Imagen2.png "Títol opcional")
 - EEn aquest apartat ja ens sortirà l’opció de configurar les nostres dades com: "correu electrònic, nom, contrasenya..."
-  ![Text alternatiu](imagen3.png "Títol opcional")
+  ![Text alternatiu](Imagen3.png "Títol opcional")
 
   
