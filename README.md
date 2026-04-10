@@ -26,5 +26,10 @@ En el punt *2* he canviat el nom del lloc i també he fet que la pàgina princip
 
 - Anem a Administració del lloc > Idioma > Paràmetres.
  ![Text alternatiu](Imagen7.png "Títol opcional")
-- Aqui escollim l'idioma que hem descarregat. Despres de escollir ho baixem i fem click en ** S
+- Aqui escollim l'idioma que hem descarregat. Despres de escollir ho baixem i fem click en ***Save changes***
  ![Text alternatiu](Imagen10.png "Títol opcional")
+## Establim una política de contrasenyes robusta:
+- Anem a Administració del lloc > Seguretat > Normatives del lloc.
+  ![Text alternatiu](Imagen11.png "Títol opcional")
+- Despres baixem un poc i pusem un **1** en els opcions que volem per a que siguin **certs** y **0** en els que no volem:
+    ![Text alternatiu](12.png "Títol opcional")
