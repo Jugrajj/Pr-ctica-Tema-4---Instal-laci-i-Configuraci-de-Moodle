@@ -33,3 +33,15 @@ En el punt *2* he canviat el nom del lloc i també he fet que la pàgina princip
   ![Text alternatiu](Imagen11.png "Títol opcional")
 - Despres baixem un poc i pusem un **1** en els opcions que volem per a que siguin **certs** y **0** en els que no volem:
     ![Text alternatiu](12.png "Títol opcional")
+  Despres baixem un altre vegada per guardar els canvis.
+
+# 3. Creació de cursos
+En aquest punt tenim que crear ***Cursos*** seguint els pasos següents:
+### ***Accediu a quadre de navegació: Cursos > Afegeix curs.***
+
+- Creem un curs anomenat A amb 3 temes.
+  ![Text alternatiu](13.png "Títol opcional")
+  Aqui fem click en **Crear un curso**
+  
+
+curs anomenat B amb 5 temes.
