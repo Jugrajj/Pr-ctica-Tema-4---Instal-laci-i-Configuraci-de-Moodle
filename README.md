@@ -58,3 +58,9 @@ fem aquesta part de la activitat de la mateixa manera que el pasat
 - Canvieu el títol d'algun tema.
   ![Text alternatiu](18.png "Títol opcional")
 
+4.1. Creació manual d'usuaris
+Creeu manualment un usuari anomenat Bob amb autenticació manual:
+Anar a Administració del lloc > Usuaris > Comptes > Afegeix un usuari.
+  ![Text alternatiu](bob.png "Títol opcional")
+
+
