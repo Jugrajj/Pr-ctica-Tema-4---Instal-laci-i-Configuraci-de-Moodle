@@ -63,4 +63,12 @@ Creeu manualment un usuari anomenat Bob amb autenticació manual:
 Anar a Administració del lloc > Usuaris > Comptes > Afegeix un usuari.
   ![Text alternatiu](bob.png "Títol opcional")
 
+# 4. Creació i gestió d'usuaris
+
+4.2. Creació massiva d'alumnes
+- Genereu 10 alumnes utilitzant un arxiu CSV:
+- Anar a Administració del lloc > Usuaris > Carrega usuaris.
+- Consulteu l'exemple de fitxer CSV a la secció Usuaris.
+- Elimineu dos dels alumnes creats mitjançant Accions amb usuaris en bloc.
+  ![Text alternatiu](10ç.png "Títol opcional")
 
