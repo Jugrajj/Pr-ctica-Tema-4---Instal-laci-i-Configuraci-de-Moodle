@@ -42,6 +42,19 @@ En aquest punt tenim que crear ***Cursos*** seguint els pasos següents:
 - Creem un curs anomenat A amb 3 temes.
   ![Text alternatiu](13.png "Títol opcional")
   Aqui fem click en **Crear un curso**
-  
+  Despres de aixo tenim que fer click en ***Añadir seccion*** i posem el nom que volem. ex: Tema1,2,3...
+  ![Text alternatiu](15.png "Títol opcional")
 
-curs anomenat B amb 5 temes.
+
+- Despres creem un curs anomenat B amb 5 temes.
+fem aquesta part de la activitat de la mateixa manera que el pasat
+  ![Text alternatiu](16.png "Títol opcional")
+
+# 3.1 Exploreu les opcions de personalització dels cursos:
+
+- Activeu el mode edició (Botó Activar Edició).
+- Afegiu material (per exemple, un document PDF) a algun tema.
+  ![Text alternatiu](17.png "Títol opcional")
+- Canvieu el títol d'algun tema.
+  ![Text alternatiu](18.png "Títol opcional")
+
