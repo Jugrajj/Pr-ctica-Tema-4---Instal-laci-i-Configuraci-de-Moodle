@@ -72,3 +72,16 @@ Anar a Administració del lloc > Usuaris > Comptes > Afegeix un usuari.
 - Elimineu dos dels alumnes creats mitjançant Accions amb usuaris en bloc.
   ![Text alternatiu](10ç.png "Títol opcional")
 
+# 5. Matriculació d'usuaris als cursos
+
+5.1. Configuració de mètodes d'inscripció
+- Curs A:
+Desactiveu qualsevol mètode d'inscripció per fer-lo públic.
+El curs ha de ser accessible sense iniciar sessió.
+![Text alternatiu](ases.png "Títol opcional")
+
+- Curs B:
+Activeu el registre manual d'usuaris.
+Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
+![Text alternatiu](enrol.png "Títol opcional")
+
