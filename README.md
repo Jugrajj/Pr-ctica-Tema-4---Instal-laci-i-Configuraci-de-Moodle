@@ -1,5 +1,4 @@
-<img width="1857" height="784" alt="image" src="https://github.com/user-attachments/assets/3ef01d35-5585-42cf-bf85-b9eeb846b6d5" /># Prctica-Tema 4 Installació i Configuració de Moodle
-En aquesta pràctica he creat un portal Moodle de temàtica lliure, configurant-lo i explorant-ne les funcionalitats com a administrador.
+### En aquesta pràctica he creat un portal Moodle de temàtica lliure, configurant-lo i explorant-ne les funcionalitats com a administrador.
 ## 1. Configuració inicial de Moodle
 
 Per fer aquest apartat de la pràctica, he iniciat la sessió com a administrador i havia canviat el meu correu electrònic i la contrasenya seguint aquests passos:
