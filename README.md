@@ -1,4 +1,4 @@
-# Prctica-Tema 4 Installació i Configuració de Moodle
+<img width="1857" height="784" alt="image" src="https://github.com/user-attachments/assets/3ef01d35-5585-42cf-bf85-b9eeb846b6d5" /># Prctica-Tema 4 Installació i Configuració de Moodle
 En aquesta pràctica he creat un portal Moodle de temàtica lliure, configurant-lo i explorant-ne les funcionalitats com a administrador.
 ## 1. Configuració inicial de Moodle
 
@@ -85,3 +85,26 @@ Activeu el registre manual d'usuaris.
 Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
 ![Text alternatiu](enrol.png "Títol opcional")
 
+5.2. Verificació
+Comproveu que:
+El contingut del curs A està disponible públicament.
+![Text alternatiu](nose.png "Títol opcional")
+
+Per accedir al curs B, cal iniciar sessió.
+![Text alternatiu](tmpc.png "Títol opcional")
+
+# 6. Personalització del lloc
+- Descarregueu i activeu un tema nou:
+- Anar a Administració del lloc > Connectors > Instal·lar complement.
+ ![Text alternatiu](tuu.png "Títol opcional")
+- Una vegada aqui fem click en "Install plugins from ***Moodle*** plugin diectories"
+ ![Text alternatiu](plug.png "Títol opcional")
+- Despres de trobar un teme nou, tornem a la pagina de "Plugins" y pujem el arxiu del tema. y fem click en install:
+ ![Text alternatiu](tmu.png "Títol opcional")
+- Ens saldra un ***Prompt*** y tenim que fer click en ***Continue***
+   ![Text alternatiu](jood.png "Títol opcional")
+- Aqui baixem y fem click en
+  ![Text alternatiu](mood.png "Títol opcional")
+
+- Seleccioneu el tema des de Administració del lloc > Aparença > Selector de temes.
+- Modifiqueu la capçalera (header), el peu de pàgina (footer) i la pàgina principal (Front page).
