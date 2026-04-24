@@ -98,4 +98,25 @@ Per a cambiar de Tema de ***Moodle*** anem a Site Administration --> Appereance 
 Una vegada aqui escollim un de aquestes.
 ![Text alternatiu](24.png "Títol opcional")
 
+Logotip:
+
+Afegiu un logotip al vostre Moodle:
+Jo he escollit aquest logo que diu ***"Joodle"*** que es un nom personalitzat per a mi.
+![Text alternatiu](logt.png "Títol opcional")
+
+### Look Final: 
+![Text alternatiu](26.png "Títol opcional")
+
+# 7.1. Curs A
+Assigneu un professor i matriculeu alumnes.
+![Text alternatiu](prof.png "Títol opcional")
+
+Afegiu continguts:
+Diferents tipus d'activitats i recursos.
+Una tasca amb data d'entrega oberta que demani la càrrega d'un fitxer PDF.
+![Text alternatiu](Tasca.png "Títol opcional")
+
+
+
+
 
