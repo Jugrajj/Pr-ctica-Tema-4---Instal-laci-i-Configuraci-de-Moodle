@@ -126,10 +126,17 @@ Per a importar del Curs A --> Curs B tenim que anar al curs on volem importar y 
 Qualificacions:
 
 Completeu totes les tasques evaluables amb un usuari alumne.
+![Text alternatiu](tasccc.png "Títol opcional")
+
 Configureu el calificador per obtenir una nota automàtica:
+![Text alternatiu](cal.png "Títol opcional")
+
 Anar a Administració del curs > Configuració de qualificacions.
 Insígnies:
 
 Creeu una insignia i atorgueu-la a un alumne:
 Anar a Administració del lloc > Insígnies.
+En aquest apartat de la activitat he creat una insignia anomenat ***Top*** per als estudiants que tinguin bona nota.
+Per fer aquest apartat he anat a ***Curs A*** y despres he fet click en mas, una vegada alli he fet click en ***Insignias*** i he creat aquesta.
+![Text alternatiu](insg.png "Títol opcional")
 
