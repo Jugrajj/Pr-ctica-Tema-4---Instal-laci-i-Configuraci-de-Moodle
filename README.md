@@ -122,5 +122,14 @@ Anar a Administració del curs > Importar.
 Per a importar del Curs A --> Curs B tenim que anar al curs on volem importar y despres fer click en ***Mas*** y escollir ***"Course reuse"*** despres escullim el curs (Curs A en aquest cas) y fem click en import
 ![Text alternatiu](imp.png "Títol opcional")
 
+# 8. Qualificacions i insígnies
+Qualificacions:
 
+Completeu totes les tasques evaluables amb un usuari alumne.
+Configureu el calificador per obtenir una nota automàtica:
+Anar a Administració del curs > Configuració de qualificacions.
+Insígnies:
+
+Creeu una insignia i atorgueu-la a un alumne:
+Anar a Administració del lloc > Insígnies.
 
