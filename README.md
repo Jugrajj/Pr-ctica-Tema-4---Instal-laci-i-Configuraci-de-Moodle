@@ -116,7 +116,11 @@ Diferents tipus d'activitats i recursos.
 Una tasca amb data d'entrega oberta que demani la càrrega d'un fitxer PDF.
 ![Text alternatiu](Tasca.png "Títol opcional")
 
-
+7.2. Curs B
+Cloneu el contingut del curs A al curs B:
+Anar a Administració del curs > Importar.
+Per a importar del Curs A --> Curs B tenim que anar al curs on volem importar y despres fer click en ***Mas*** y escollir ***"Course reuse"*** despres escullim el curs (Curs A en aquest cas) y fem click en import
+![Text alternatiu](imp.png "Títol opcional")
 
 
 
