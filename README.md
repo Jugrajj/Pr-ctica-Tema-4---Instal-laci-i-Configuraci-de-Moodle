@@ -140,3 +140,14 @@ En aquest apartat de la activitat he creat una insignia anomenat ***Top*** per a
 Per fer aquest apartat he anat a ***Curs A*** y despres he fet click en mas, una vegada alli he fet click en ***Insignias*** i he creat aquesta.
 ![Text alternatiu](insg.png "Títol opcional")
 
+# 9. Qüestionaris
+Creeu un qüestionari amb preguntes del banc de preguntes:
+Per fer aixo he tingut que anar al Curs A
+![Text alternatiu](curss.png "Títol opcional")
+Despres he fet click en ***Mas*** y en el menuhe fet click en **Banco de preguntas**
+![Text alternatiu](banc.png "Títol opcional")
+Una vegada aqui he fet clck en ***Añadir*** y he afegit les preguntes.
+
+Organitzeu preguntes en categories diferents.
+Respongueu les preguntes amb un usuari estudiant i verifiqueu les qualificacions amb l'usuari professor.
+
