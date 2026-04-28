@@ -152,3 +152,16 @@ He creat manualment un usuari anomenat Bob.
 - He afegit diferents preguntes i les he organitzat per categories per tenir-les millor estructurades.
 
 - Finalment he realitzat la prova amb un usuari alumne i he comprovat les qualificacions amb l’usuari professor.
+
+### **10. Importació i exportació de cursos**
+1. Exporteu una còpia de seguretat del curs:
+Per fer una copia de seguretat del curs tenim que anar a
+   - **Administració > Cursos > Reutltzacio del curs**.
+![Text alternatiu](secc.png "Títol opcional")
+#### - Una vegada dins del apartat fem click en ***Copia de seguridad***
+![Text alternatiu](copp.png "Títol opcional")
+- Aqui fem click en *Continuar*
+![Text alternatiu](copp.png "Títol opcional")
+
+3. Envieu el fitxer a un company i importeu un altre curs del seu Moodle.
+
