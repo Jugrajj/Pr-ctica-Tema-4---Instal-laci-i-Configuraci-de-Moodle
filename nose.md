@@ -165,3 +165,18 @@ Per fer una copia de seguretat del curs tenim que anar a
 
 3. Envieu el fitxer a un company i importeu un altre curs del seu Moodle.
 
+## 11. Seguretat
+
+En aquest apartat he configurat la seguretat del Moodle bloquejant una IP i aplicant una política de seguretat.
+
+- He anat a l’apartat de seguretat del sistema i he afegit una IP concreta a la llista de bloqueig, de manera que aquesta IP no pot accedir al Moodle.
+per fer aixo he tingut que anar a - **Administració > Seguretat > IP blocker**
+![Text alternatiu](ipp.png "Títol opcional")
+Dins de aquest apartat he baixat un poc i he afegit un IP qualsevol per fer aquesta part.
+![Text alternatiu](block.png "Títol opcional")
+- Després he revisat i aplicat una política de seguretat bàsica per millorar la protecció del lloc.
+Per aplicar la política de seguretat he anat a *Administració > Seguretat > ***Site security settings*** y despres he activat la politica de contrasenya.
+![Text alternatiu](passwords.png "Títol opcional")
+### Justificació
+
+He bloquejat aquesta IP i he aplicat mesures de seguretat per evitar accessos no desitjats i protegir el sistema de possibles problemes de seguretat.
