@@ -1,4 +1,9 @@
 ## 1. Configuració inicial de Moodle
+### Objectius de la pràctica
+
+- Instal·lar i posar en funcionament un sistema de gestió de continguts, en aquest cas Moodle.  
+- Familiaritzar-se amb l’ús de Moodle des del rol d’administrador per organitzar cursos, usuaris, materials i avaluacions.  
+- Comprendre les funcionalitats d’una plataforma LMS (Learning Management System) i aplicar-les dins d’un context educatiu.
 
 Per fer aquest apartat de la pràctica, he iniciat la sessió com a administrador i havia canviat el meu correu electrònic i la contrasenya seguint aquests passos:
 
@@ -7,9 +12,12 @@ Per començar he fet click en el **Logo** del meu perfil del *Moodle*, i despré
   ![Text alternatiu](Imagen2.png "Títol opcional")
 - En aquest apartat ja ens sortirà l’opció de configurar les nostres dades com: "correu electrònic, nom, contrasenya..."
   ![Text alternatiu](Imagen3.png "Títol opcional")
+Si fem click en ***Edit Profile*** y baixem ens saldra un apartat on podem canviar el nostre foto de perfil: ***Jo no vull canviar ho doncs no ho he fet.***
+![Text alternatiu](perff.png "Títol opcional")
 
 ## 2. Configuració del lloc
-En el punt *2* he canviat el nom del lloc i també he fet que la pàgina principal no mostri contingut per als usuaris no autenticats amb aquests passos: # - Primer de tot iniciem la sessio com **Administrador** en *Moodle*.
+En el punt *2* he canviat el nom del lloc i també he fet que la pàgina principal no mostri contingut per als usuaris no autenticats amb aquests passos: 
+### - Primer de tot iniciem la sessio com **Administrador** en *Moodle*.
  ![Text alternatiu](Imagen4.png "Títol opcional")
  - Ara anem a **Administració del lloc > Primera plana > Paràmetres.**
  - Després configurem la franja horaria correcta:  Ubicació > Paràmetres.
@@ -80,7 +88,7 @@ El curs ha de ser accessible sense iniciar sessió.
 
 - Curs B:
 Activeu el registre manual d'usuaris.
-Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
+En aquest punt he Matriculat a **Bob** com a professor y els alumnes restant com a estudiants.
 ![Text alternatiu](enrol.png "Títol opcional")
 
 5.2. Verificació
@@ -144,7 +152,7 @@ Per fer aquest apartat he anat a ***Curs A*** y despres he fet click en mas, una
 Creeu un qüestionari amb preguntes del banc de preguntes:
 Per fer aixo he tingut que anar al Curs A
 ![Text alternatiu](curss.png "Títol opcional")
-Despres he fet click en ***Mas*** y en el menuhe fet click en **Banco de preguntas**
+Despres he fet click en ***Mas*** y en el menu he fet click en **Banco de preguntas**
 ![Text alternatiu](banc.png "Títol opcional")
 Una vegada aqui he fet clck en ***Añadir*** y he afegit les preguntes.
 
