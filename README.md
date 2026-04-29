@@ -152,3 +152,31 @@ He creat manualment un usuari anomenat Bob.
 - He afegit diferents preguntes i les he organitzat per categories per tenir-les millor estructurades.
 
 - Finalment he realitzat la prova amb un usuari alumne i he comprovat les qualificacions amb l’usuari professor.
+
+### **10. Importació i exportació de cursos**
+1. Exporteu una còpia de seguretat del curs:
+Per fer una copia de seguretat del curs tenim que anar a
+   - **Administració > Cursos > Reutltzacio del curs**.
+![Text alternatiu](secc.png "Títol opcional")
+#### - Una vegada dins del apartat fem click en ***Copia de seguridad***
+![Text alternatiu](copp.png "Títol opcional")
+- Aqui fem click en *Continuar*
+![Text alternatiu](copp.png "Títol opcional")
+
+3. Envieu el fitxer a un company i importeu un altre curs del seu Moodle.
+
+## 11. Seguretat
+
+En aquest apartat he configurat la seguretat del Moodle bloquejant una IP i aplicant una política de seguretat.
+
+- He anat a l’apartat de seguretat del sistema i he afegit una IP concreta a la llista de bloqueig, de manera que aquesta IP no pot accedir al Moodle.
+per fer aixo he tingut que anar a - **Administració > Seguretat > IP blocker**
+![Text alternatiu](ipp.png "Títol opcional")
+Dins de aquest apartat he baixat un poc i he afegit un IP qualsevol per fer aquesta part.
+![Text alternatiu](block.png "Títol opcional")
+- Després he revisat i aplicat una política de seguretat bàsica per millorar la protecció del lloc.
+Per aplicar la política de seguretat he anat a *Administració > Seguretat > ***Site security settings*** y despres he activat la politica de contrasenya.
+![Text alternatiu](passwords.png "Títol opcional")
+### Justificació
+
+He bloquejat aquesta IP i he aplicat mesures de seguretat per evitar accessos no desitjats i protegir el sistema de possibles problemes de seguretat.
